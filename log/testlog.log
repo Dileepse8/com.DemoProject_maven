@@ -1,0 +1,90 @@
+2023-02-06 23:55:05,289 - DEMO_NOPECommerce -INFO - ********URL Is Opened*********
+2023-02-06 23:55:05,351 - DEMO_NOPECommerce -INFO - ********Providing Names*********
+2023-02-06 23:55:06,014 - DEMO_NOPECommerce -INFO - ********Clicking Login *********
+2023-02-06 23:55:21,799 - DEMO_NOPECommerce -INFO - ******** Checking Title *********
+2023-02-06 23:55:22,110 - DEMO_NOPECommerce -INFO - ******** Clicked on Customers Menu*********
+2023-02-06 23:55:26,037 - DEMO_NOPECommerce -INFO - ******** Clicking on Sub Customers Menu*********
+2023-02-06 23:55:34,321 - DEMO_NOPECommerce -INFO - ******** Clicking Add New Button*********
+2023-02-06 23:55:38,897 - DEMO_NOPECommerce -INFO - ********Checking Title*********
+2023-02-06 23:55:38,952 - DEMO_NOPECommerce -INFO - ******** Entering Details*********
+2023-02-06 23:55:39,220 - DEMO_NOPECommerce -INFO - ********Email Given*********
+2023-02-06 23:55:39,443 - DEMO_NOPECommerce -INFO - ********Password Given*********
+2023-02-06 23:55:43,600 - DEMO_NOPECommerce -INFO - ********Comments Given*********
+2023-02-06 23:55:47,435 - DEMO_NOPECommerce -INFO - ********Vendor Given*********
+2023-02-06 23:55:49,772 - DEMO_NOPECommerce -INFO - ********Clicked on Save Button*********
+2023-02-06 23:55:52,324 - DEMO_NOPECommerce -INFO - ********Customer added is Validated*********
+2023-02-06 23:55:52,326 - DEMO_NOPECommerce -INFO - ******** Browser Closing *********
+2023-02-06 23:56:01,304 - DEMO_NOPECommerce -INFO - ********URL Is Opened*********
+2023-02-06 23:56:01,306 - DEMO_NOPECommerce -INFO - ********Providing Names*********
+2023-02-06 23:56:01,844 - DEMO_NOPECommerce -INFO - ********Clicking Login *********
+2023-02-06 23:56:05,539 - DEMO_NOPECommerce -INFO - ******** Checking Title *********
+2023-02-06 23:56:05,555 - DEMO_NOPECommerce -INFO - ******** Clicked on Customers Menu*********
+2023-02-06 23:56:07,885 - DEMO_NOPECommerce -INFO - ******** Clicking on Sub Customers Menu*********
+2023-02-06 23:56:13,180 - DEMO_NOPECommerce -INFO - ********Email is Validated*********
+2023-02-06 23:56:13,423 - DEMO_NOPECommerce -INFO - ********Search button is Clicked*********
+2023-02-06 23:56:15,556 - DEMO_NOPECommerce -INFO - ********Email is Validated too*********
+2023-02-06 23:56:15,559 - DEMO_NOPECommerce -INFO - ******** Browser Closing *********
+2023-02-06 23:56:23,822 - DEMO_NOPECommerce -INFO - ********URL Is Opened*********
+2023-02-06 23:56:23,823 - DEMO_NOPECommerce -INFO - ********Providing Names*********
+2023-02-06 23:56:24,313 - DEMO_NOPECommerce -INFO - ********Clicking Login *********
+2023-02-06 23:56:29,585 - DEMO_NOPECommerce -INFO - ******** Checking Title *********
+2023-02-06 23:56:29,605 - DEMO_NOPECommerce -INFO - ******** Clicked on Customers Menu*********
+2023-02-06 23:56:31,826 - DEMO_NOPECommerce -INFO - ******** Clicking on Sub Customers Menu*********
+2023-02-06 23:56:37,308 - DEMO_NOPECommerce -INFO - ********FirstName is Validated*********
+2023-02-06 23:56:37,750 - DEMO_NOPECommerce -INFO - ********LastName is Validated*********
+2023-02-06 23:56:37,997 - DEMO_NOPECommerce -INFO - ********Search button is Clicked*********
+2023-02-06 23:56:40,290 - DEMO_NOPECommerce -INFO - ********Name is Validated*********
+2023-02-06 23:56:40,298 - DEMO_NOPECommerce -INFO - ******** Browser Closing *********
+2023-02-07 00:36:31,162 - DEMO_NOPECommerce -INFO - ********URL Is Opened*********
+2023-02-07 00:36:31,517 - DEMO_NOPECommerce -INFO - ********Providing Names*********
+2023-02-07 00:36:36,167 - DEMO_NOPECommerce -INFO - ********Clicking Login *********
+2023-02-07 00:36:47,544 - DEMO_NOPECommerce -INFO - ******** Checking Title *********
+2023-02-07 00:36:47,744 - DEMO_NOPECommerce -INFO - ******** Clicked on Customers Menu*********
+2023-02-07 00:36:51,658 - DEMO_NOPECommerce -INFO - ******** Clicking on Sub Customers Menu*********
+2023-02-07 00:36:56,278 - DEMO_NOPECommerce -INFO - ******** Clicking Add New Button*********
+2023-02-07 00:36:58,862 - DEMO_NOPECommerce -INFO - ********Checking Title*********
+2023-02-07 00:36:58,878 - DEMO_NOPECommerce -INFO - ******** Entering Details*********
+2023-02-07 00:36:59,623 - DEMO_NOPECommerce -INFO - ********Email Given*********
+2023-02-07 00:36:59,837 - DEMO_NOPECommerce -INFO - ********Password Given*********
+2023-02-07 00:37:20,892 - DEMO_NOPECommerce -INFO - ********URL Is Opened*********
+2023-02-07 00:37:20,892 - DEMO_NOPECommerce -INFO - ********Providing Names*********
+2023-02-07 00:37:21,248 - DEMO_NOPECommerce -INFO - ********Clicking Login *********
+2023-02-07 00:37:24,767 - DEMO_NOPECommerce -INFO - ******** Checking Title *********
+2023-02-07 00:37:24,778 - DEMO_NOPECommerce -INFO - ******** Clicked on Customers Menu*********
+2023-02-07 00:37:28,001 - DEMO_NOPECommerce -INFO - ******** Clicking on Sub Customers Menu*********
+2023-02-07 00:37:32,388 - DEMO_NOPECommerce -INFO - ********Email is Validated*********
+2023-02-07 00:37:32,770 - DEMO_NOPECommerce -INFO - ********Search button is Clicked*********
+2023-02-07 00:37:34,980 - DEMO_NOPECommerce -INFO - ********Email is Validated too*********
+2023-02-07 00:37:34,982 - DEMO_NOPECommerce -INFO - ******** Browser Closing *********
+2023-02-07 00:37:57,417 - DEMO_NOPECommerce -INFO - ********URL Is Opened*********
+2023-02-07 00:37:57,419 - DEMO_NOPECommerce -INFO - ********Providing Names*********
+2023-02-07 00:37:57,798 - DEMO_NOPECommerce -INFO - ********Clicking Login *********
+2023-02-07 00:38:00,885 - DEMO_NOPECommerce -INFO - ******** Checking Title *********
+2023-02-07 00:38:00,896 - DEMO_NOPECommerce -INFO - ******** Clicked on Customers Menu*********
+2023-02-07 00:38:04,221 - DEMO_NOPECommerce -INFO - ******** Clicking on Sub Customers Menu*********
+2023-02-07 00:38:07,907 - DEMO_NOPECommerce -INFO - ********FirstName is Validated*********
+2023-02-07 00:38:08,102 - DEMO_NOPECommerce -INFO - ********LastName is Validated*********
+2023-02-07 00:38:08,470 - DEMO_NOPECommerce -INFO - ********Search button is Clicked*********
+2023-02-07 00:38:10,563 - DEMO_NOPECommerce -INFO - ********Name is Validated*********
+2023-02-07 00:38:10,564 - DEMO_NOPECommerce -INFO - ******** Browser Closing *********
+2023-02-07 00:45:30,196 - DEMO_NOPECommerce -INFO - ********URL Is Opened*********
+2023-02-07 00:45:30,206 - DEMO_NOPECommerce -INFO - ********Providing Names*********
+2023-02-07 00:45:31,258 - DEMO_NOPECommerce -INFO - ********Clicking Login *********
+2023-02-07 00:45:42,072 - DEMO_NOPECommerce -INFO - ******** Checking Title *********
+2023-02-07 00:45:42,118 - DEMO_NOPECommerce -INFO - ******** Clicked on Customers Menu*********
+2023-02-07 00:45:44,868 - DEMO_NOPECommerce -INFO - ******** Clicking on Sub Customers Menu*********
+2023-02-07 00:45:56,662 - DEMO_NOPECommerce -INFO - ******** Clicking Add New Button*********
+2023-02-07 00:46:27,444 - DEMO_NOPECommerce -INFO - ********Checking Title*********
+2023-02-07 00:46:27,567 - DEMO_NOPECommerce -INFO - ******** Entering Details*********
+2023-02-07 00:46:28,645 - DEMO_NOPECommerce -INFO - ********Email Given*********
+2023-02-07 00:46:29,102 - DEMO_NOPECommerce -INFO - ********Password Given*********
+2023-02-07 00:46:35,161 - DEMO_NOPECommerce -INFO - ********Comments Given*********
+2023-02-07 00:46:39,173 - DEMO_NOPECommerce -INFO - ********Vendor Given*********
+2023-02-07 00:46:43,468 - DEMO_NOPECommerce -INFO - ********Clicked on Save Button*********
+2023-02-07 00:46:46,533 - DEMO_NOPECommerce -INFO - ********Customer added is Validated*********
+2023-02-07 00:46:46,533 - DEMO_NOPECommerce -INFO - ******** Browser Closing *********
+2023-02-07 00:47:03,343 - DEMO_NOPECommerce -INFO - ********URL Is Opened*********
+2023-02-07 00:47:03,343 - DEMO_NOPECommerce -INFO - ********Providing Names*********
+2023-02-07 00:47:04,493 - DEMO_NOPECommerce -INFO - ********Clicking Login *********
+2023-02-07 00:47:22,347 - DEMO_NOPECommerce -INFO - ******** LogOut Clicking *********
+2023-02-07 00:47:30,970 - DEMO_NOPECommerce -INFO - ******** Browser Closing *********
